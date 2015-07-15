@@ -1,0 +1,47 @@
+h1{
+    color: grey;
+    font-weight: bold;
+}
+
+h2{
+    color: lightgray;
+}
+
+.secondp{
+    color: red;
+}
+
+img{
+    width: 50px;
+    height:auto;
+}
+
+ul li {
+    background-color: aqua
+}
+
+.container{
+    height: 800px;
+    padding:1%
+}
+
+.orange {
+    background-color: lightgoldenrodyellow;
+    height:100%;
+    background-clip:content-box;
+        padding: 10px;
+}
+.pink {
+    background-color: indianred;
+    height:30%;
+    background-clip:content-box;
+    padding: 10px;
+}
+.blue {
+    background-color: dodgerblue;
+    height: 70%;
+    background-clip:content-box;
+        padding: 10px;
+}
+.padding{
+}
