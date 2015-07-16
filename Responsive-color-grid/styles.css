@@ -1,0 +1,42 @@
+.container-fluid{
+    height: 800px;
+}
+
+.row{
+    height: 20%;
+}
+
+.bigblock{
+    background-color: #f5c6d6; 
+    height: 100%;
+    background-clip:content-box;
+    padding: 10px;
+}
+
+.small3{
+    background-color: #ee2e84;
+    height: 100%;
+    background-clip:content-box;
+    padding: 10px;
+}
+
+.medium2{
+    background-color: #85cfd8;
+    height: 100%;  
+    background-clip:content-box;
+    padding: 10px;
+}
+
+.medium1{
+    background-color: #8dc63f;
+    height: 100%;
+    background-clip:content-box;
+    padding: 10px;
+}
+
+.medium4{
+    background-color: #e76e34;
+    height: 100%;
+    background-clip:content-box;
+    padding: 10px;
+}
