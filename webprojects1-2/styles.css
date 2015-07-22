@@ -1,0 +1,11 @@
+div 
+{
+    height:60px;
+    width:100px;
+    border: 4px solid darkgray;
+    background-color: aqua;
+    color: white;
+    box-shadow: 3px 3px 4px #888999;
+    text-align: center;
+    border-radius: 5px;
+}
